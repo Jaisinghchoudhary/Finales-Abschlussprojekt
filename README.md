@@ -2,6 +2,14 @@
 
 Dieses Projekt wurde im Rahmen der **finalen Abschlussprüfung der Data SmartPoint Academy** erstellt.  
 Ziel war es, mithilfe von **Python, Datenanalyse und Machine Learning** spielbezogene Daten aus **League of Legends** zu untersuchen, zu visualisieren und prädiktive Zusammenhänge zwischen Spielern, Champions und Matchausgängen zu erkennen.
+
+---
+
+## 🎯 Ziel des Projekts
+
+Ziel war es, **das erlernte Wissen aus allen Modulen (Python, Data Analytics, ML)** in einem praxisnahen Projekt zu bündeln.  
+Dabei stand nicht nur die technische Umsetzung im Fokus, sondern auch die Fähigkeit, spielbezogene Daten zu verstehen, aufzubereiten und geschäftsrelevante oder strategische Erkenntnisse daraus zu gewinnen.
+
 ---
 
 ## 📊 Datensätze
@@ -76,30 +84,10 @@ Umgesetzt wurden:
 
 ---
 
-## 💾 Dateiinhalt
-
-- `Datensatz 1 Games.ipynb` – Hauptanalyse der Spielerdaten  
-- `Datensatz 2 Champion1.ipynb` – Champions Set 1  
-- `Datensatz 3 Champion2.ipynb` – Champions Set 2  
-- `Datensatz 4 Summoner_Spell.ipynb` – Spell-Nutzung & Auswertung  
-- `Standardvisualisierungen.ipynb` – Basis-Charts & Vergleichsanalysen  
-- `ML_Vorbereitungen.ipynb` – Feature Engineering & ML-Setup  
-- `ML_Visualisierungen.ipynb` – ML-Ergebnisse & Visuals  
-- `README.md` – Diese Dokumentation  
-
----
-
 ## 🎯 Ziel des Projekts
 
 Ziel war es, **das erlernte Wissen aus allen Modulen (Python, Data Analytics, ML)** in einem praxisnahen Projekt zu bündeln.  
 Dabei stand nicht nur die technische Umsetzung im Fokus, sondern auch die Fähigkeit, spielbezogene Daten zu verstehen, aufzubereiten und geschäftsrelevante oder strategische Erkenntnisse daraus zu gewinnen.
-
----
-
-## 👨‍💻 Erstellt von
-
-**Aljoscha Kropp**  
-📘 Abschlussprüfung –  Für Data SmartPoint Academy  
 
 ---
 
