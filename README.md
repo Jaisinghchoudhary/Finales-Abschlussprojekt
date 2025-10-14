@@ -84,13 +84,6 @@ Umgesetzt wurden:
 
 ---
 
-## 🎯 Ziel des Projekts
-
-Ziel war es, **das erlernte Wissen aus allen Modulen (Python, Data Analytics, ML)** in einem praxisnahen Projekt zu bündeln.  
-Dabei stand nicht nur die technische Umsetzung im Fokus, sondern auch die Fähigkeit, spielbezogene Daten zu verstehen, aufzubereiten und geschäftsrelevante oder strategische Erkenntnisse daraus zu gewinnen.
-
----
-
 ## 📂 Hinweis zum Datensatz
 
 Der verwendete Datensatz wurde im Rahmen einer Schulung zur Verfügung gestellt und basiert auf öffentlich zugänglichen Übungsdaten von [Kaggle](https://www.kaggle.com/).  
